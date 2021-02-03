@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveElement/RemoveElement.iml" filepath="$PROJECT_DIR$/RemoveElement/RemoveElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" filepath="$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/RookCaptures/RookCaptures.iml" filepath="$PROJECT_DIR$/RookCaptures/RookCaptures.iml" />
       <module fileurl="file://$PROJECT_DIR$/Skiplist/Skiplist.iml" filepath="$PROJECT_DIR$/Skiplist/Skiplist.iml" />
