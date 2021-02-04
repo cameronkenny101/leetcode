@@ -1,5 +1,5 @@
 public class LinearSolution {
-    
+
     public int maxArea(int[] height) {
         int area = 0;
         int maxArea = 0;
