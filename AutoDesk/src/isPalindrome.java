@@ -1,7 +1,7 @@
 public class isPalindrome {
 
     public static void main(String[] args) {
-        System.out.println(palindrome("racecar"));
+        System.out.println(palindrome("vicic"));
     }
 
     public static boolean palindrome(String word) {
