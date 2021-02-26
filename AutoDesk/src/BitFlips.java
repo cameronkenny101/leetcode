@@ -1,7 +1,7 @@
 public class BitFlips {
 
     public static void main(String[] args) {
-        System.out.println(minBitFlip(101011101));
+        System.out.println(minBitFlip(10110));
     }
 
     public static int minBitFlip(int number) {

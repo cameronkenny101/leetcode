@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class LargestNumber2 {
 
     public static void main(String[] args) {
-        System.out.println(solution(-9100));
+        System.out.println(solution(9628));
     }
 
     private static int solution(int N) {
@@ -20,7 +20,10 @@ public class LargestNumber2 {
 
         for (String tmpStr : numarr) {
             int tmp = Integer.parseInt(tmpStr);
-            inserted = flag == 1 ? tmp < 5 : tmp > 5;
+            if(flag == 1)
+                inserted = tmp < 5;
+            else
+                inserted = tmp > 5;
             if(inserted){
                 result.add(50 + tmp + "");
                 break;

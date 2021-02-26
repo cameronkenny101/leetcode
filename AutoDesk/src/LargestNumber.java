@@ -1,26 +1,23 @@
 public class LargestNumber {
 
     public static void main(String[] args) {
-        System.out.println(largestNumber(-9100));
+        System.out.println(largestNumber(-12));
     }
 
     public static int largestNumber(int n) {
         StringBuilder sb = new StringBuilder(String.valueOf(n));
-        if(sb.charAt(0) == '-') {
-            for(int i = 1; i < sb.length(); i++) {
-                if(Integer.parseInt(String.valueOf(sb.charAt(i))) > 5) {
-                    sb.insert(i, '5');
-                    return Integer.parseInt(String.valueOf(sb));
-                }
-            }
-        } else {
-            for(int i = 0; i < sb.length(); i++) {
-                if(Integer.parseInt(String.valueOf(sb.charAt(i))) < 5) {
-                    sb.insert(i, '5');
-                    return Integer.parseInt(String.valueOf(sb));
-                }
+        int negative = 0;
+        if(sb.charAt(0) == '-')
+            negative = 1;
+
+        for(int i = negative; i < sb.length(); i++) {
+            int num = Integer.parseInt(String.valueOf(sb.charAt(i)));
+            if (negative == 1 ? num > 5 : num < 5) {
+                sb.insert(i, "5");
+                return Integer.parseInt(String.valueOf(sb));
             }
         }
-        return 0;
+
+        return Integer.parseInt(String.valueOf(sb.insert(sb.length(), "5")));
     }
 }
