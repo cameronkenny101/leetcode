@@ -5,7 +5,7 @@ import java.util.Stack;
 public class Parenthesis {
 
     public static void main(String[] args) {
-        ArrayList<int[]> ans = matching("a(sfsf(()fsfs))");
+        ArrayList<int[]> ans = matching("a(sfsf(()fsfs)s)");
         for(int i = 0; i < ans.size(); i++)
             System.out.println(Arrays.toString(ans.get(i)));
     }
@@ -20,7 +20,7 @@ public class Parenthesis {
                 int[] ans = new int[2];
                 if(stack.isEmpty()) {
                     System.out.println("invalid");
-                    return null;
+                    throw new IllegalArgumentException();
                 } else {
                     ans[0] = stack.pop();
                     ans[1] = i;
@@ -30,7 +30,7 @@ public class Parenthesis {
         }
         if(!stack.isEmpty()) {
             System.out.println("invalid");
-            return null;
+            throw new IllegalArgumentException();
         }
         return list;
     }

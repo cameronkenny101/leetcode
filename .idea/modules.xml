@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" filepath="$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pow/Pow.iml" filepath="$PROJECT_DIR$/Pow/Pow.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveElement/RemoveElement.iml" filepath="$PROJECT_DIR$/RemoveElement/RemoveElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" filepath="$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" />
