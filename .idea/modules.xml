@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" filepath="$PROJECT_DIR$/ReverseLinkedList/ReverseLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/RookCaptures/RookCaptures.iml" filepath="$PROJECT_DIR$/RookCaptures/RookCaptures.iml" />
       <module fileurl="file://$PROJECT_DIR$/SellStock/SellStock.iml" filepath="$PROJECT_DIR$/SellStock/SellStock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiftingLetters/ShiftingLetters.iml" filepath="$PROJECT_DIR$/ShiftingLetters/ShiftingLetters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Skiplist/Skiplist.iml" filepath="$PROJECT_DIR$/Skiplist/Skiplist.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackIncrement/StackIncrement.iml" filepath="$PROJECT_DIR$/StackIncrement/StackIncrement.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
