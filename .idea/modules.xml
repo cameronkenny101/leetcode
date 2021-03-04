@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.iml" filepath="$PROJECT_DIR$/AddTwoNumbers/AddTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AerialRecon/AerialRecon.iml" filepath="$PROJECT_DIR$/AerialRecon/AerialRecon.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlmostPalindrome/AlmostPalindrome.iml" filepath="$PROJECT_DIR$/AlmostPalindrome/AlmostPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/AutoDesk/AutoDesk.iml" filepath="$PROJECT_DIR$/AutoDesk/AutoDesk.iml" />
