@@ -1,6 +1,9 @@
+import java.util.HashMap;
+
 public class AerialRecon {
 
     boolean enemyShip = false;
+    int count = 0;
 
     public static void main(String[] args) {
         AerialRecon recon = new AerialRecon();
@@ -16,13 +19,18 @@ public class AerialRecon {
     }
 
     public int ships(int[][] arr) {
+        HashMap<Integer, Integer> map = new HashMap<>();
         int enemy = 0;
         for(int i = 0; i < arr.length; i++) {
             for(int j = 0; j < arr[i].length; j++) {
                 if(arr[i][j] != 2) {
                     dfs(arr, i, j);
-                    if(enemyShip)
+                    if(enemyShip) {
                         enemy += 1;
+                        System.out.println(count);
+
+                    }
+                    count = 0;
                 }
                 enemyShip = false;
             }
@@ -39,6 +47,7 @@ public class AerialRecon {
         }
 
         arr[i][j] = 2;
+        count++;
         dfs(arr, i + 1, j);
         dfs(arr, i - 1, j);
         dfs(arr, i, j + 1);
