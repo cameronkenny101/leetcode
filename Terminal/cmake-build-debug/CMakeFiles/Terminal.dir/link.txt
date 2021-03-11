@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Terminal.dir/main.c.o CMakeFiles/Terminal.dir/UI.c.o CMakeFiles/Terminal.dir/Initilisation.c.o CMakeFiles/Terminal.dir/CatchSigInt.c.o CMakeFiles/Terminal.dir/ChangeDirectory.c.o CMakeFiles/Terminal.dir/ArgumentHandler.c.o  -o Terminal 

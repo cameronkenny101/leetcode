@@ -1,0 +1,3 @@
+/home/cameron/CLionProjects/Terminal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cameron/CLionProjects/Terminal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cameron/CLionProjects/Terminal/cmake-build-debug/CMakeFiles/Terminal.dir
