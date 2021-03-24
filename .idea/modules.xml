@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/Skiplist/Skiplist.iml" filepath="$PROJECT_DIR$/Skiplist/Skiplist.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackIncrement/StackIncrement.iml" filepath="$PROJECT_DIR$/StackIncrement/StackIncrement.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TargetArray/TargetArray.iml" filepath="$PROJECT_DIR$/TargetArray/TargetArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" filepath="$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" filepath="$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" />
