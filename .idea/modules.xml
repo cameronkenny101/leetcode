@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/TargetArray/TargetArray.iml" filepath="$PROJECT_DIR$/TargetArray/TargetArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" filepath="$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/longestPalindrome/longestPalindrome.iml" filepath="$PROJECT_DIR$/longestPalindrome/longestPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" filepath="$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotated-digits/rotated-digits.iml" filepath="$PROJECT_DIR$/rotated-digits/rotated-digits.iml" />
     </modules>
