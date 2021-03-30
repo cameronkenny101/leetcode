@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ComplimentBase10Integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/TwoSum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LargestTimeForDigits/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
