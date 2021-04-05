@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" filepath="$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" filepath="$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectSquares/PerfectSquares.iml" filepath="$PROJECT_DIR$/PerfectSquares/PerfectSquares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pow/Pow.iml" filepath="$PROJECT_DIR$/Pow/Pow.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
@@ -32,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/StackIncrement/StackIncrement.iml" filepath="$PROJECT_DIR$/StackIncrement/StackIncrement.iml" />
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/TargetArray/TargetArray.iml" filepath="$PROJECT_DIR$/TargetArray/TargetArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" filepath="$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" filepath="$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/longestPalindrome/longestPalindrome.iml" filepath="$PROJECT_DIR$/longestPalindrome/longestPalindrome.iml" />
