@@ -1,7 +1,7 @@
 public class LargestNumber {
 
     public static void main(String[] args) {
-        System.out.println(largestNumber(-12));
+        System.out.println(largestNumber(512));
     }
 
     public static int largestNumber(int n) {

@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HourGlass/HourGlass.iml" filepath="$PROJECT_DIR$/HourGlass/HourGlass.iml" />
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestIncreasingSubarray/LongestIncreasingSubarray.iml" filepath="$PROJECT_DIR$/LongestIncreasingSubarray/LongestIncreasingSubarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" filepath="$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" filepath="$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" />

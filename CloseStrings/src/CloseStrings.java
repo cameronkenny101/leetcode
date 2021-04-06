@@ -5,7 +5,7 @@ import java.util.Collections;
 public class CloseStrings {
 
     public static void main(String[] args) {
-        System.out.println(close("xxxxxxxxxxxxxxxxxxx", "zzzzzzzzzzzzzzzzzzz"));
+        System.out.println(close("yay", "aya"));
     }
 
     private static boolean close(String input, String input2) {
