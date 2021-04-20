@@ -1,7 +1,7 @@
 public class LIS {
 
     public static void main(String[] args) {
-        int[] arr = {2, 6, 4, 0, 1, 2, 4};
+        int[] arr = {2, 6, 4, 0, 11, 2, 4};
         System.out.println(dpLIS(arr));
     }
 
