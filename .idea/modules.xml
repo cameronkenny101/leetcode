@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HourGlass/HourGlass.iml" filepath="$PROJECT_DIR$/HourGlass/HourGlass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KthFrequent/KthFrequent.iml" filepath="$PROJECT_DIR$/KthFrequent/KthFrequent.iml" />
       <module fileurl="file://$PROJECT_DIR$/KthLargestElement/KthLargestElement.iml" filepath="$PROJECT_DIR$/KthLargestElement/KthLargestElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/LRUCache/LRUCache.iml" filepath="$PROJECT_DIR$/LRUCache/LRUCache.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.iml" filepath="$PROJECT_DIR$/LinkedListCycle/LinkedListCycle.iml" />
