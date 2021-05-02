@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Container/Container.iml" filepath="$PROJECT_DIR$/Container/Container.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeleteDuplicates/DeleteDuplicates.iml" filepath="$PROJECT_DIR$/DeleteDuplicates/DeleteDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HourGlass/HourGlass.iml" filepath="$PROJECT_DIR$/HourGlass/HourGlass.iml" />
       <module fileurl="file://$PROJECT_DIR$/KthFrequent/KthFrequent.iml" filepath="$PROJECT_DIR$/KthFrequent/KthFrequent.iml" />

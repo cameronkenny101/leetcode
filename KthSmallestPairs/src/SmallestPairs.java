@@ -26,6 +26,7 @@ public class SmallestPairs {
                 minHeap.add(new int[] {pair[0], pair[1] + 1, pair[0] + nums2[pair[1] + 1]});
         }
         return result;
+
     }
 
 }
