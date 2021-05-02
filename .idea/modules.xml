@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HourGlass/HourGlass.iml" filepath="$PROJECT_DIR$/HourGlass/HourGlass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntersectionArray/IntersectionArray.iml" filepath="$PROJECT_DIR$/IntersectionArray/IntersectionArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/KthFrequent/KthFrequent.iml" filepath="$PROJECT_DIR$/KthFrequent/KthFrequent.iml" />
       <module fileurl="file://$PROJECT_DIR$/KthLargestElement/KthLargestElement.iml" filepath="$PROJECT_DIR$/KthLargestElement/KthLargestElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/KthSmallestPairs/KthSmallestPairs.iml" filepath="$PROJECT_DIR$/KthSmallestPairs/KthSmallestPairs.iml" />
