@@ -5,19 +5,25 @@ import java.util.PriorityQueue;
 
 public class SmallestPairs {
 
-    public static List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-        PriorityQueue<List<Integer>> maxHeap = new PriorityQueue<>((a, b) -> Integer.compare((b.get(0) + b.get(1)), (a.get(0) + a.get(1))));
+    public static void main(String[] args) {
+        int[] num1 = {1, 5, 5};
+        int[] num2 = {2, 3, 7};
 
-        for(int i : nums1) {
-            for(int j : nums2) {
-                maxHeap.add(List.of(i, j));
-                if(maxHeap.size() > k)
-                    maxHeap.remove();
-            }
-        }
+        kSmallestPairs(num1, num2, 4);
+    }
+
+    public static List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
+        PriorityQueue<int[]> minHeap = new PriorityQueue<>((a, b) -> Integer.compare(a[2], b[2]));
+
+        for(int i = 0; i < Math.min(nums1.length, k); i++)
+            minHeap.add(new int[] {nums1[i], 0, nums1[i] + nums2[0]});
         List<List<Integer>> result = new ArrayList<>();
-        while(!maxHeap.isEmpty()) {
-            result.add(maxHeap.remove());
+        while(!minHeap.isEmpty() && k-- > 0) {
+            int[] pair = minHeap.poll();
+            result.add(Arrays.asList(pair[0], nums2[pair[1]]));
+
+            if(pair[1] < nums2.length - 1)
+                minHeap.add(new int[] {pair[0], pair[1] + 1, pair[0] + nums2[pair[1] + 1]});
         }
         return result;
     }
