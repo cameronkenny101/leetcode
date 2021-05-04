@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwapNodes/SwapNodes.iml" filepath="$PROJECT_DIR$/SwapNodes/SwapNodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/TargetArray/TargetArray.iml" filepath="$PROJECT_DIR$/TargetArray/TargetArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniqueChar/UniqueChar.iml" filepath="$PROJECT_DIR$/UniqueChar/UniqueChar.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueEmails/UniqueEmails.iml" filepath="$PROJECT_DIR$/UniqueEmails/UniqueEmails.iml" />
       <module fileurl="file://$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" filepath="$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
