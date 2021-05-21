@@ -53,6 +53,7 @@
       <module fileurl="file://$PROJECT_DIR$/UniqueChar/UniqueChar.iml" filepath="$PROJECT_DIR$/UniqueChar/UniqueChar.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueEmails/UniqueEmails.iml" filepath="$PROJECT_DIR$/UniqueEmails/UniqueEmails.iml" />
       <module fileurl="file://$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" filepath="$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XOR/XOR.iml" filepath="$PROJECT_DIR$/XOR/XOR.iml" />
       <module fileurl="file://$PROJECT_DIR$/bendingSpoons/bendingSpoons.iml" filepath="$PROJECT_DIR$/bendingSpoons/bendingSpoons.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" filepath="$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" />
