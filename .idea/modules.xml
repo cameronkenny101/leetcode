@@ -29,6 +29,7 @@
       <module fileurl="file://$PROJECT_DIR$/LongestIncreasingSubarray/LongestIncreasingSubarray.iml" filepath="$PROJECT_DIR$/LongestIncreasingSubarray/LongestIncreasingSubarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" filepath="$PROJECT_DIR$/LongestSubstring/LongestSubstring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxDepth/MaxDepth.iml" filepath="$PROJECT_DIR$/MaxDepth/MaxDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxIslands/MaxIslands.iml" filepath="$PROJECT_DIR$/MaxIslands/MaxIslands.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" filepath="$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" filepath="$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" />
