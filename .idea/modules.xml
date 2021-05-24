@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/MaxDepth/MaxDepth.iml" filepath="$PROJECT_DIR$/MaxDepth/MaxDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxIslands/MaxIslands.iml" filepath="$PROJECT_DIR$/MaxIslands/MaxIslands.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" filepath="$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinDepth/MinDepth.iml" filepath="$PROJECT_DIR$/MinDepth/MinDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" filepath="$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/PascalsTriangle/PascalsTriangle.iml" filepath="$PROJECT_DIR$/PascalsTriangle/PascalsTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectSquares/PerfectSquares.iml" filepath="$PROJECT_DIR$/PerfectSquares/PerfectSquares.iml" />
