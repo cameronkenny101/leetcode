@@ -37,6 +37,7 @@
       <module fileurl="file://$PROJECT_DIR$/MinDepth/MinDepth.iml" filepath="$PROJECT_DIR$/MinDepth/MinDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" filepath="$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/PascalsTriangle/PascalsTriangle.iml" filepath="$PROJECT_DIR$/PascalsTriangle/PascalsTriangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" filepath="$PROJECT_DIR$/PerfectNumber/PerfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/PerfectSquares/PerfectSquares.iml" filepath="$PROJECT_DIR$/PerfectSquares/PerfectSquares.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pow/Pow.iml" filepath="$PROJECT_DIR$/Pow/Pow.iml" />
       <module fileurl="file://$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" filepath="$PROJECT_DIR$/RemoveDuplicates/RemoveDuplicates.iml" />
