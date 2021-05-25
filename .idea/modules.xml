@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/DeleteDuplicates/DeleteDuplicates.iml" filepath="$PROJECT_DIR$/DeleteDuplicates/DeleteDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HammingDistance/HammingDistance.iml" filepath="$PROJECT_DIR$/HammingDistance/HammingDistance.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HourGlass/HourGlass.iml" filepath="$PROJECT_DIR$/HourGlass/HourGlass.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntersectionArray/IntersectionArray.iml" filepath="$PROJECT_DIR$/IntersectionArray/IntersectionArray.iml" />
@@ -31,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxDepth/MaxDepth.iml" filepath="$PROJECT_DIR$/MaxDepth/MaxDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxIslands/MaxIslands.iml" filepath="$PROJECT_DIR$/MaxIslands/MaxIslands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeTwoBinaryTrees/MergeTwoBinaryTrees.iml" filepath="$PROJECT_DIR$/MergeTwoBinaryTrees/MergeTwoBinaryTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" filepath="$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinDepth/MinDepth.iml" filepath="$PROJECT_DIR$/MinDepth/MinDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" filepath="$PROJECT_DIR$/MonotonicArray/MonotonicArray.iml" />
