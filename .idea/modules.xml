@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/CommonChars/CommonChars.iml" filepath="$PROJECT_DIR$/CommonChars/CommonChars.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContainDuplicate/ContainDuplicate.iml" filepath="$PROJECT_DIR$/ContainDuplicate/ContainDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Container/Container.iml" filepath="$PROJECT_DIR$/Container/Container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConvertArrayToSearchTree/ConvertArrayToSearchTree.iml" filepath="$PROJECT_DIR$/ConvertArrayToSearchTree/ConvertArrayToSearchTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/DeleteDuplicates/DeleteDuplicates.iml" filepath="$PROJECT_DIR$/DeleteDuplicates/DeleteDuplicates.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
