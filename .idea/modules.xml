@@ -57,6 +57,7 @@
       <module fileurl="file://$PROJECT_DIR$/StackQueue/StackQueue.iml" filepath="$PROJECT_DIR$/StackQueue/StackQueue.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubArrayEqualK/SubArrayEqualK.iml" filepath="$PROJECT_DIR$/SubArrayEqualK/SubArrayEqualK.iml" />
       <module fileurl="file://$PROJECT_DIR$/SubArraySum/SubArraySum.iml" filepath="$PROJECT_DIR$/SubArraySum/SubArraySum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumRootLeafNum/SumRootLeafNum.iml" filepath="$PROJECT_DIR$/SumRootLeafNum/SumRootLeafNum.iml" />
       <module fileurl="file://$PROJECT_DIR$/SwapNodes/SwapNodes.iml" filepath="$PROJECT_DIR$/SwapNodes/SwapNodes.iml" />
       <module fileurl="file://$PROJECT_DIR$/TargetArray/TargetArray.iml" filepath="$PROJECT_DIR$/TargetArray/TargetArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/UniqueChar/UniqueChar.iml" filepath="$PROJECT_DIR$/UniqueChar/UniqueChar.iml" />
