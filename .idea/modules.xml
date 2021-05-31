@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" filepath="$PROJECT_DIR$/GroupAnagrams/GroupAnagrams.iml" />
       <module fileurl="file://$PROJECT_DIR$/HammingDistance/HammingDistance.iml" filepath="$PROJECT_DIR$/HammingDistance/HammingDistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HasPathSum/HasPathSum.iml" filepath="$PROJECT_DIR$/HasPathSum/HasPathSum.iml" />
       <module fileurl="file://$PROJECT_DIR$/HashCode/HashCode.iml" filepath="$PROJECT_DIR$/HashCode/HashCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/HourGlass/HourGlass.iml" filepath="$PROJECT_DIR$/HourGlass/HourGlass.iml" />
       <module fileurl="file://$PROJECT_DIR$/HouseRobber/HouseRobber.iml" filepath="$PROJECT_DIR$/HouseRobber/HouseRobber.iml" />
