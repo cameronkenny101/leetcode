@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/BadVersion/BadVersion.iml" filepath="$PROJECT_DIR$/BadVersion/BadVersion.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/BinaryTreeCameras/BinaryTreeCameras.iml" filepath="$PROJECT_DIR$/BinaryTreeCameras/BinaryTreeCameras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTreeLOT/BinaryTreeLOT.iml" filepath="$PROJECT_DIR$/BinaryTreeLOT/BinaryTreeLOT.iml" />
       <module fileurl="file://$PROJECT_DIR$/ClimbStairs/ClimbStairs.iml" filepath="$PROJECT_DIR$/ClimbStairs/ClimbStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/CloseStrings/CloseStrings.iml" filepath="$PROJECT_DIR$/CloseStrings/CloseStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChef_MarchChallenge/CodeChef_MarchChallenge.iml" filepath="$PROJECT_DIR$/CodeChef_MarchChallenge/CodeChef_MarchChallenge.iml" />
