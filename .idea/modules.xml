@@ -39,6 +39,7 @@
       <module fileurl="file://$PROJECT_DIR$/Max69Number/Max69Number.iml" filepath="$PROJECT_DIR$/Max69Number/Max69Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxDepth/MaxDepth.iml" filepath="$PROJECT_DIR$/MaxDepth/MaxDepth.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxIslands/MaxIslands.iml" filepath="$PROJECT_DIR$/MaxIslands/MaxIslands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaxSubarray/MaxSubarray.iml" filepath="$PROJECT_DIR$/MaxSubarray/MaxSubarray.iml" />
       <module fileurl="file://$PROJECT_DIR$/MergeTwoBinaryTrees/MergeTwoBinaryTrees.iml" filepath="$PROJECT_DIR$/MergeTwoBinaryTrees/MergeTwoBinaryTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" filepath="$PROJECT_DIR$/MinArrowShot/MinArrowShot.iml" />
       <module fileurl="file://$PROJECT_DIR$/MinDepth/MinDepth.iml" filepath="$PROJECT_DIR$/MinDepth/MinDepth.iml" />
