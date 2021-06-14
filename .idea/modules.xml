@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ClimbStairs/ClimbStairs.iml" filepath="$PROJECT_DIR$/ClimbStairs/ClimbStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/CloseStrings/CloseStrings.iml" filepath="$PROJECT_DIR$/CloseStrings/CloseStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/CodeChef_MarchChallenge/CodeChef_MarchChallenge.iml" filepath="$PROJECT_DIR$/CodeChef_MarchChallenge/CodeChef_MarchChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoinChange/CoinChange.iml" filepath="$PROJECT_DIR$/CoinChange/CoinChange.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonChars/CommonChars.iml" filepath="$PROJECT_DIR$/CommonChars/CommonChars.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContainDuplicate/ContainDuplicate.iml" filepath="$PROJECT_DIR$/ContainDuplicate/ContainDuplicate.iml" />
       <module fileurl="file://$PROJECT_DIR$/Container/Container.iml" filepath="$PROJECT_DIR$/Container/Container.iml" />
@@ -70,6 +71,7 @@
       <module fileurl="file://$PROJECT_DIR$/UniquePaths/UniquePaths.iml" filepath="$PROJECT_DIR$/UniquePaths/UniquePaths.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidateBinaryTrees/ValidateBinaryTrees.iml" filepath="$PROJECT_DIR$/ValidateBinaryTrees/ValidateBinaryTrees.iml" />
       <module fileurl="file://$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" filepath="$PROJECT_DIR$/WalkingRobot/WalkingRobot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordBreak/WordBreak.iml" filepath="$PROJECT_DIR$/WordBreak/WordBreak.iml" />
       <module fileurl="file://$PROJECT_DIR$/WordLadder/WordLadder.iml" filepath="$PROJECT_DIR$/WordLadder/WordLadder.iml" />
       <module fileurl="file://$PROJECT_DIR$/XOR/XOR.iml" filepath="$PROJECT_DIR$/XOR/XOR.iml" />
       <module fileurl="file://$PROJECT_DIR$/bendingSpoons/bendingSpoons.iml" filepath="$PROJECT_DIR$/bendingSpoons/bendingSpoons.iml" />
