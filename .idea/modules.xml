@@ -79,6 +79,7 @@
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" filepath="$PROJECT_DIR$/linkedListDesign/linkedListDesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/longestPalindrome/longestPalindrome.iml" filepath="$PROJECT_DIR$/longestPalindrome/longestPalindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maxPopulation/maxPopulation.iml" filepath="$PROJECT_DIR$/maxPopulation/maxPopulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" filepath="$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/minCostClimbStairs/minCostClimbStairs.iml" filepath="$PROJECT_DIR$/minCostClimbStairs/minCostClimbStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/minPathSum/minPathSum.iml" filepath="$PROJECT_DIR$/minPathSum/minPathSum.iml" />
