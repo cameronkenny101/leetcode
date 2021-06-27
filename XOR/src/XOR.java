@@ -1,7 +1,7 @@
 public class XOR {
 
     public static void main(String[] args) {
-        int[] arr = {3, 5, 1};
+        int[] arr = {3, 5, 2, 4, 6};
         System.out.println(XORarray(arr));
     }
 

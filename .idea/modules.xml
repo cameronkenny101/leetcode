@@ -82,6 +82,7 @@
       <module fileurl="file://$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" filepath="$PROJECT_DIR$/maxTurbulenceSubArray/maxTurbulenceSubArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/minCostClimbStairs/minCostClimbStairs.iml" filepath="$PROJECT_DIR$/minCostClimbStairs/minCostClimbStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/minPathSum/minPathSum.iml" filepath="$PROJECT_DIR$/minPathSum/minPathSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moveZeroes/moveZeroes.iml" filepath="$PROJECT_DIR$/moveZeroes/moveZeroes.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotated-digits/rotated-digits.iml" filepath="$PROJECT_DIR$/rotated-digits/rotated-digits.iml" />
     </modules>
   </component>
